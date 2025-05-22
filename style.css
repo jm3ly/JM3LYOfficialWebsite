@@ -94,7 +94,13 @@
   .yt {
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg');
   }  
-  
+  .tt {
+    background-image: ('photos/tiktokLogo');
+    width: 28px;
+    height: 28px;
+    background-size: cover;
+    background-position: center;
+  }
   /* Responsive design for tablets */
   @media (max-width: 768px) {
     .top-row,
